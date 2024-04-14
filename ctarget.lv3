@@ -1,5 +1,5 @@
 /* movq location of cookie to rdi and retq */
-/* 0x5553a878 */
+/* 0x5553a888 */
 48 c7 c7 88 a8 53 55 c3
 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00

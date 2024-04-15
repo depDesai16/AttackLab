@@ -12,8 +12,8 @@
 a5 2c f7 33 00 00 00 00
 
 /* Move rax into rdi */
-/* 401f5d */
-5d 1f 40 00 00 00 00 00
+/* 401f5f */
+5f 1f 40 00 00 00 00 00
 
 /* Ret address of touch2 */
 /* 0x401d4e */
